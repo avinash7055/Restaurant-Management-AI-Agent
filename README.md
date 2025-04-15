@@ -2,6 +2,12 @@
 
 This project is an AI agent chatbot that helps customers interact with a restaurant by performing the following tasks:
 ![green_delight](https://github.com/user-attachments/assets/e10b155d-bf11-4daa-9fa5-d6cd3fcb3175)
+![gd_orders](https://github.com/user-attachments/assets/81efa5d4-9846-4b88-b7fd-5cbbd457c455)
+![green_delight_menu](https://github.com/user-attachments/assets/6c28da57-f5ed-43a2-8784-0b69cc0ffd48)
+![gd_reservations](https://github.com/user-attachments/assets/665b2dbc-1d14-487a-95ae-ec87cc0a4844)
+
+
+
 
 
 1. Order Food – Allow the user to place a food order.
