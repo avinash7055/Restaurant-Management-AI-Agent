@@ -1,6 +1,8 @@
 # Restaurant Management AI Agent
 
 This project is an AI agent chatbot that helps customers interact with a restaurant by performing the following tasks:
+![green_delight](https://github.com/user-attachments/assets/e10b155d-bf11-4daa-9fa5-d6cd3fcb3175)
+
 
 1. Order Food – Allow the user to place a food order.
 2. Book a Table – Let the user reserve a table.
