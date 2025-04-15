@@ -91,7 +91,7 @@ rs/
 4. Run the Flask application:
    ```
    cd backend
-   python -m flask run
+   python run.py
    ```
 
 #### Frontend
